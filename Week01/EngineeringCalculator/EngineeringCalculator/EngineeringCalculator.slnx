@@ -1,5 +1,6 @@
 <Solution>
   <Project Path="../../../Week02/ElectricalPowerCalculator/ElectricalPowerCalculator.csproj" Id="9454ebd0-5c54-474d-b4d7-71922923aecf" />
   <Project Path="../../../Week02/StudentGradeAnalyzer/StudentGradeAnalyzer.csproj" Id="6e343e37-8187-496f-b460-5886b0754327" />
+  <Project Path="../../../Week03/StudentRegister/StudentRegister.csproj" Id="1bf70b95-8a82-4877-8295-cef2cc924bea" />
   <Project Path="EngineeringCalculator.csproj" />
 </Solution>
