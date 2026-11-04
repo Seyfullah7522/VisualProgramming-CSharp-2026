@@ -1,4 +1,4 @@
-namespace student_log_in
+namespace CourseRegistrationSystem
 {
     internal static class Program
     {
